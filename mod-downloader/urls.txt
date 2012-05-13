@@ -1,0 +1,32 @@
+[modloader] (ml)
+http://dl.dropbox.com/u/20629262/Latest/ModLoader.zip
+
+[turbo model thingy] (tmt)
+http://www.multiverseworks.com/minecraft/turbomodelthingy-v2.3.7-1.2.5.zip
+
+[single player commands] (spc)
+http://bit.ly/Hh2y1c
+
+[worldedit CUI] (wecui)
+http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-17/artifact/JOB1/ZIP/WorldEditCUI-1.2.zip
+
+[too many items] (tmi)
+http://adf.ly/go/d657556b7efe4ab50c882ed0000b99d2/aHR0cDovL21hcmdseXBoLnMzLmFtYXpvbmF3cy5jb20vVG9vTWFueUl0ZW1zMjAxMl8wNF8xMF8xLjIuNS56aXA
+
+[modloaderMP] (mlmp)
+http://adf.ly/go/a0a63a6ea751106397ca669667546672/aHR0cDovL2RsLmRyb3Bib3guY29tL3UvMTYzOTk1MzcvUmVsZWFzZXMvMS4yLjUvTW9kTG9hZGVyTVAlMjAxLjIuNSUyMHYxLnppcA
+
+[forge] (frg)
+http://php-experiments-simon816.net76.net/mediafire.php?code=0wm7ux6m5i4amqb
+
+[audio mod] (aud)
+http://dl.dropbox.com/u/20629262/Latest/AudioMod.zip
+
+[player API] (plapi)
+http://dl.dropbox.com/u/41082508/Minecraft/Modding/Player API/MC 1.2.5 - Player API client 1.0.zip
+
+[code chicken core] (ccc)
+http://adf.ly/go/d197dc41092c1b883450ed854ca6e11f/aHR0cDovL3d3dy5jaGlja2VuYm9uZXMuY3JhZnRzYWRkbGUub3JnL0ZpbGVzL0NvZGVDaGlja2VuL0NvZGVDaGlja2VuQ29yZS1DbGllbnQlMjAwLjUuMi56aXA
+
+[spc patch for player API] (spcptch)
+http://dl.dropbox.com/u/41082508/Minecraft/Modding/SPC for PlayerAPI Patch/SPC for PlayerAPI Patch 6.0 for SPC 3.2.2.zip
