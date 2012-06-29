@@ -10,8 +10,8 @@ http://bit.ly/Hh2y1c
 [worldedit CUI] (wecui)
 http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-17/artifact/JOB1/ZIP/WorldEditCUI-1.2.zip
 
-[too many items] (tmi)
-http://adf.ly/go/d657556b7efe4ab50c882ed0000b99d2/aHR0cDovL21hcmdseXBoLnMzLmFtYXpvbmF3cy5jb20vVG9vTWFueUl0ZW1zMjAxMl8wNF8xMF8xLjIuNS56aXA
+[not enough items] (nei)
+http://adf.ly/go/c8b3ced251f552b6bc9e99fa1e581424/aHR0cDovL3d3dy5jaGlja2VuYm9uZXMuY3JhZnRzYWRkbGUub3JnL0ZpbGVzL05FSS9Ob3RFbm91Z2hJdGVtcy1DbGllbnQlMjAxLjIuMi40LnppcA
 
 [modloaderMP] (mlmp)
 http://adf.ly/go/a0a63a6ea751106397ca669667546672/aHR0cDovL2RsLmRyb3Bib3guY29tL3UvMTYzOTk1MzcvUmVsZWFzZXMvMS4yLjUvTW9kTG9hZGVyTVAlMjAxLjIuNSUyMHYxLnppcA
