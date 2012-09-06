@@ -1,0 +1,12 @@
+[modloader] (ml)
+http://dl.dropbox.com/u/20629262/Latest/ModLoader.zip
+
+[worldedit CUI] (wecui)
+http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-22/artifact/JOB1/ZIP/WorldEditCUI-1.3.2a.zip
+
+[modloaderMP] (mlmp)
+http://adf.ly/go/71c3ab42edd1a6c44fd19d4eb133ac1a/aHR0cHM6Ly9kbC5kcm9wYm94LmNvbS91LzE2Mzk5NTM3L1JlbGVhc2VzLzEuMy4yL01vZExvYWRlck1QJTIwMS4zLjIlMjB2MS56aXA
+
+[audio mod] (aud)
+http://dl.dropbox.com/u/20629262/Latest/AudioMod.zip
+
