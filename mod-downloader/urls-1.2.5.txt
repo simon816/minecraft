@@ -1,5 +1,5 @@
 [modloader] (ml)
-http://dl.dropbox.com/u/20629262/Latest/ModLoader.zip
+http://php-experiments-simon816.net76.net/mediafire.php?code=eif164qe1i1le7o
 
 [turbo model thingy] (tmt)
 http://www.multiverseworks.com/minecraft/turbomodelthingy-v2.3.7-1.2.5.zip
@@ -8,10 +8,7 @@ http://www.multiverseworks.com/minecraft/turbomodelthingy-v2.3.7-1.2.5.zip
 http://bit.ly/Hh2y1c
 
 [worldedit CUI] (wecui)
-http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-17/artifact/JOB1/ZIP/WorldEditCUI-1.2.zip
-
-[not enough items] (nei)
-http://adf.ly/go/c8b3ced251f552b6bc9e99fa1e581424/aHR0cDovL3d3dy5jaGlja2VuYm9uZXMuY3JhZnRzYWRkbGUub3JnL0ZpbGVzL05FSS9Ob3RFbm91Z2hJdGVtcy1DbGllbnQlMjAxLjIuMi40LnppcA
+http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-18/artifact/JOB1/ZIP/WorldEditCUI-1.2.5.zip
 
 [modloaderMP] (mlmp)
 http://adf.ly/go/a0a63a6ea751106397ca669667546672/aHR0cDovL2RsLmRyb3Bib3guY29tL3UvMTYzOTk1MzcvUmVsZWFzZXMvMS4yLjUvTW9kTG9hZGVyTVAlMjAxLjIuNSUyMHYxLnppcA
@@ -20,13 +17,16 @@ http://adf.ly/go/a0a63a6ea751106397ca669667546672/aHR0cDovL2RsLmRyb3Bib3guY29tL3
 http://php-experiments-simon816.net76.net/mediafire.php?code=0wm7ux6m5i4amqb
 
 [audio mod] (aud)
-http://dl.dropbox.com/u/20629262/Latest/AudioMod.zip
+http://php-experiments-simon816.net76.net/mediafire.php?code=2gdh10h6xuf8y5d
 
 [player API] (plapi)
 http://dl.dropbox.com/u/41082508/Minecraft/Modding/Player API/MC 1.2.5 - Player API client 1.0.zip
 
 [code chicken core] (ccc)
 http://adf.ly/go/d197dc41092c1b883450ed854ca6e11f/aHR0cDovL3d3dy5jaGlja2VuYm9uZXMuY3JhZnRzYWRkbGUub3JnL0ZpbGVzL0NvZGVDaGlja2VuL0NvZGVDaGlja2VuQ29yZS1DbGllbnQlMjAwLjUuMi56aXA
+
+[not enough items] (nei)
+http://adf.ly/go/c8b3ced251f552b6bc9e99fa1e581424/aHR0cDovL3d3dy5jaGlja2VuYm9uZXMuY3JhZnRzYWRkbGUub3JnL0ZpbGVzL05FSS9Ob3RFbm91Z2hJdGVtcy1DbGllbnQlMjAxLjIuMi40LnppcA
 
 [spc patch for player API] (spcptch)
 http://dl.dropbox.com/u/41082508/Minecraft/Modding/SPC for PlayerAPI Patch/SPC for PlayerAPI Patch 6.0 for SPC 3.2.2.zip
