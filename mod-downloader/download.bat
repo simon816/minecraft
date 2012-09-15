@@ -21,7 +21,7 @@ if %errorlevel%==0 (
 wget "%curl%" -O "%ctag%.txt"
 set /p curl=<%ctag%.txt
 )
-wget "%curl%" -O "%ctag%.zip"
+wget "%curl%" -O "%ctag%.zip" --no-check-certificate
 set /a x+=1
 del url.txt
 del %ctag%.txt
