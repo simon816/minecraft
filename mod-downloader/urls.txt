@@ -1,17 +1,12 @@
-[modloader] (ml)
-http://dl.dropbox.com/u/20629262/Latest/ModLoader.zip
-
+﻿
 [single player commands] (spc)
 http://bit.ly/PbdelX
 
-[worldedit CUI] (wecui)
-http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-22/artifact/JOB1/ZIP/WorldEditCUI-1.3.2a.zip
-
-[modloaderMP] (mlmp)
-http://php-experiments-simon816.net76.net/adfly.php?code=C0rtw
-
 [forge api] (frg)
 http://files.minecraftforge.net/minecraftforge-universal-4.1.1.251.zip
+
+[worldedit CUI] (wecui)
+http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-22/artifact/JOB1/ZIP/WorldEditCUI-1.3.2a.zip
 
 [audio mod] (aud)
 http://dl.dropbox.com/u/20629262/Latest/AudioMod.zip

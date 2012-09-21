@@ -55,10 +55,10 @@ if %%i==plapi (del "changelog.txt"
 del "readme.txt")
 if %%i==spcptch (del "changelog.txt"
 del "readme.txt")
-if %%i==wecui (cd WorldEditCUI-1.2
+if %%i==wecui (cd WorldEditCUI-1.3.2a
 xcopy "classes" "..\" /e /c
 cd ..\
-rd WorldEditCUI-1.2 /S /Q
+rd WorldEditCUI-1.3.2a /S /Q
 )
 cd ..\
 )
@@ -71,7 +71,7 @@ if "%comp%"=="ok" (goto comp)
 exit
 :comp
 md compilation
-FOR %%i IN (ml mlmp frg tmt aud ccc tmi spc plapi spcPtch wecui) DO (
+FOR %%i IN (%tlist%) DO (
 xcopy %%i "compilation" /e /c
 )
 cls
