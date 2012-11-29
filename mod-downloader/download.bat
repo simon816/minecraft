@@ -55,10 +55,10 @@ if %%i==plapi (del "changelog.txt"
 del "readme.txt")
 if %%i==spcptch (del "changelog.txt"
 del "readme.txt")
-if %%i==wecui (cd WorldEditCUI-1.3.2a
+if %%i==wecui (cd WorldEditCUI-1.4.5
 xcopy "classes" "..\" /e /c
 cd ..\
-rd WorldEditCUI-1.3.2a /S /Q
+rd WorldEditCUI-1.4.5 /S /Q
 )
 cd ..\
 )
