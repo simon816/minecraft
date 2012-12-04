@@ -1,5 +1,5 @@
 [Minecraft Forge API] (frg)
-http://files.minecraftforge.net/minecraftforge-universal-6.3.0.372.zip
+http://files.minecraftforge.net/minecraftforge-universal-1.4.5-6.4.0.397.zip
 
 [Audio Mod] (aud)
 http://dl.dropbox.com/u/20629262/Latest/AudioMod.zip
