@@ -7,9 +7,6 @@ http://dl.dropbox.com/u/20629262/1.4.5/AudioMod.zip
 [Single Player Commands] (spc)
 https://dl.dropbox.com/u/17317177/SinglePlayerCommands-MC1.4.5_V4.3.zip
 
-[World Edit CUI] (wecui)
-http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-25/artifact/JOB1/ZIP/WorldEditCUI-1.4.5.zip
-
 [Code Chicken Core] (ccc)
 http://www.chickenbones.craftsaddle.org/Files/goto.php?file=CodeChickenCore&a=1
 

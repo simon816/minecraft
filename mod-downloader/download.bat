@@ -50,7 +50,15 @@ cd %%i
 ..\7za.exe x ..\%%i.zip
 if %%i==spc (move "WorldEdit.jar" "..\WorldEdit.jar"
 del "readme.txt")
-if %%i==frg (del "minecraftforge_credits.txt")
+if %%i==frg (del "MinecraftForge-Credits.txt"
+del "MinecraftForge-Changelog.txt"
+del "MinecraftForge-License.txt"
+del "CREDITS-fml.txt"
+del "LICENSE-fml.txt"
+del "Paulscode IBXM Library License.txt"
+del "Paulscode SoundSystem CodecIBXM License.txt"
+del "README-fml.txt"
+)
 if %%i==plapi (del "changelog.txt"
 del "readme.txt")
 if %%i==spcptch (del "changelog.txt"
