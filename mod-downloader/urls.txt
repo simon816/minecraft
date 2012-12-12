@@ -1,11 +1,11 @@
 [Minecraft Forge API] (frg)
-http://files.minecraftforge.net/minecraftforge-universal-1.4.5-6.4.0.397.zip
+http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-1.4.5-6.4.1.436.zip
 
 [Audio Mod] (aud)
-http://dl.dropbox.com/u/20629262/Latest/AudioMod.zip
+http://dl.dropbox.com/u/20629262/1.4.5/AudioMod.zip
 
 [Single Player Commands] (spc)
-https://dl.dropbox.com/u/17317177/SinglePlayerCommands-MC1.4.2_V4.2.zip
+https://dl.dropbox.com/u/17317177/SinglePlayerCommands-MC1.4.5_V4.3.zip
 
 [World Edit CUI] (wecui)
 http://bamboo.thezomg.com/browse/WECUI-WECUISTABLE-25/artifact/JOB1/ZIP/WorldEditCUI-1.4.5.zip
